@@ -67,7 +67,7 @@ html {
 }
 
 body {
-  padding-top: 151.54px;
+  padding-top: 126.19px;
 }
 
 @media only screen and (max-width: 991px) {
@@ -358,7 +358,7 @@ html[dir=ltr] .progress-bar {
 }
 .main-btn {
   width: 100%;
-  padding: 0 40px;
+  padding: 0 25px;
   max-width: 190px;
   height: 57px;
   border-radius: 8px;
@@ -368,7 +368,7 @@ html[dir=ltr] .progress-bar {
   text-align: center;
   background-color: var(--black-color);
   color: var(--white-color);
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 700;
   background-image: linear-gradient(30deg, var(--main-color) 50%, transparent 50%);
   background-size: 500px;
@@ -410,7 +410,7 @@ html[dir=ltr] .progress-bar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 36px 0;
+  padding: 25px 0;
   transition: all 0.3s ease-in-out;
 }
 
@@ -450,8 +450,8 @@ html[dir=ltr] .progress-bar {
 }
 .logo {
   display: flex;
-  width: 188px;
-  max-width: 188px;
+  width: 180px;
+  max-width: 180px;
   max-height: 80px;
   transition: all 0.3s ease-in-out;
 }
@@ -698,7 +698,7 @@ html[dir=ltr] .progress-bar {
   top: -130px;
   inset-inline-start: 0;
   width: auto;
-  max-width: 512px;
+  max-width: 280px;
 }
 @media only screen and (max-width: 767px) {
   .main-bg {
@@ -769,6 +769,7 @@ html[dir=ltr] .main-bg {
   flex-shrink: 0;
   width: 645.34px;
   aspect-ratio: 645.34/729;
+  max-width: 540px;
   flex-shrink: 0;
   position: relative;
 }
@@ -801,8 +802,8 @@ html[dir=ltr] .main-bg {
 
 .main-title {
   font-weight: 500;
-  font-size: 44px;
-  line-height: 5.2 0.8px;
+  font-size: 40px;
+  line-height: 52.8px;
   margin: 0 0 48px;
   max-width: 714px;
 }

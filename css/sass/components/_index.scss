@@ -14,7 +14,7 @@
   top: -130px;
   inset-inline-start: 0;
   width: auto;
-  max-width: 512px;
+  max-width: 280px;
   @include max-767 {
     max-width: 45%;
   }
@@ -75,6 +75,7 @@ html[dir="ltr"] .main-bg {
   flex-shrink: 0;
   width: 645.34px;
   aspect-ratio: 645.34/729;
+  max-width: 540px;
   flex-shrink: 0;
   position: relative;
   @include max-991 {
@@ -100,8 +101,8 @@ html[dir="ltr"] .main-bg {
 }
 .main-title {
   font-weight: 500;
-  font-size: 44px;
-  line-height: 5.2.8px;
+  font-size: 40px;
+  line-height: 52.8px;
   margin: 0 0 48px;
   max-width: 714px;
   @include max-767 {
