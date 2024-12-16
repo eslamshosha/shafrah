@@ -358,8 +358,8 @@ html[dir=ltr] .progress-bar {
 }
 .main-btn {
   width: 100%;
-  padding: 0 25px;
-  max-width: 190px;
+  padding: 0 30px;
+  max-width: 200px;
   height: 57px;
   border-radius: 8px;
   display: inline-flex;
@@ -571,7 +571,7 @@ html[dir=ltr] .progress-bar {
   position: relative;
   color: #62636c;
   font-weight: 400;
-  font-size: 24px;
+  font-size: 22px;
   transition: all 0.3s ease-in-out;
 }
 
@@ -698,7 +698,7 @@ html[dir=ltr] .progress-bar {
   top: -130px;
   inset-inline-start: 0;
   width: auto;
-  max-width: 280px;
+  max-width: 270px;
 }
 @media only screen and (max-width: 767px) {
   .main-bg {
@@ -769,7 +769,7 @@ html[dir=ltr] .main-bg {
   flex-shrink: 0;
   width: 645.34px;
   aspect-ratio: 645.34/729;
-  max-width: 540px;
+  max-width: 500px;
   flex-shrink: 0;
   position: relative;
 }

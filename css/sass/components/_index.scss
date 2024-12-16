@@ -14,7 +14,7 @@
   top: -130px;
   inset-inline-start: 0;
   width: auto;
-  max-width: 280px;
+  max-width: 270px;
   @include max-767 {
     max-width: 45%;
   }
@@ -75,7 +75,7 @@ html[dir="ltr"] .main-bg {
   flex-shrink: 0;
   width: 645.34px;
   aspect-ratio: 645.34/729;
-  max-width: 540px;
+  max-width: 500px;
   flex-shrink: 0;
   position: relative;
   @include max-991 {
