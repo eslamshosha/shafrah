@@ -125,7 +125,8 @@ html[dir="ltr"] .main-bg {
   font-size: 24px;
   border-radius: 8px;
   @include tr;
-  &:hover {
+  &:hover,
+  &:focus {
     background-color: $black;
     color: $white;
   }
